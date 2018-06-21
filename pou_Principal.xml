@@ -10,7 +10,7 @@
          <sourceSTIL>IF toto THEN
   tata := TRUE;  
 ELSE
-  tata := TRUE;
+  tata := FALSE;
 END_IF;
 
          </sourceSTIL>
